@@ -1,0 +1,54 @@
+body {
+    color: #282425;
+    background-color: #fff1e6;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+h1,
+h2 {
+    color: #756158;
+}
+
+h1,
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    color: white;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7)
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.foto-omne {
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+section {
+    padding: 50px 15%;
+    overflow: auto;
+}
+
+.hlavicka {
+    background-image: url(../images/DSC_0372.JPG);
+    padding: 150px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
